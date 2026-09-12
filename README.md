@@ -11,6 +11,6 @@ Iam is a VibeCoder, that is why all the projects I create are open source—beca
 
 #Thankyou
 
-If you contribute, please share the results with me as well, since it remains my idea—it was simply created using Claude AI.
+If you contribute, please share the results with me as well, since it remains my idea it was simply created using Claude AI.
 
 Thank You
