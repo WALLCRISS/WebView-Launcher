@@ -1,6 +1,6 @@
 # WebView Launcher
 
-The WebView Launcher is an application designed to launch either a single HTML file or a zipped package containing HTML, CSS, JS, and supporting assets—functioning much like a standalone WebView APK, it also includes a PDF reader as a secondary feature.
+WebView Launcher is an application designed to run a single HTML file or a compressed package (ZIP) containing HTML, CSS, JS, and supporting assets, it functions like a standalone WebView APK eliminating the need to create an actual .apk file and this application includes a built in PDF reader like secondary feature.
 
 # No Licence
 
